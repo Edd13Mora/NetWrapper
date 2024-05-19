@@ -5,13 +5,13 @@
   <img src="https://github.com/Edd13Mora/NetWrapper/blob/main/Netexec.png" alt="Pacman Logo" >
 </p>
 
-<H2>Password Policy Demo</H2>
+<H2>SMB Shares Enumeration</H2>
 <p align="center"> 
-  <img src="https://github.com/Edd13Mora/NetWrapper/blob/main/Demo1.png" alt="Password Policy" >
+  <img src="https://raw.githubusercontent.com/Edd13Mora/NetWrapper/main/demo1.png" alt="Shares Enum" >
 </p>
 <H2>Kerberoasting Demo</H2>
 <p align="center"> 
-  <img src="https://github.com/Edd13Mora/NetWrapper/blob/main/Demo2.png" alt="Kerberostable users" >
+  <img src="https://raw.githubusercontent.com/Edd13Mora/NetWrapper/main/demo2.png" alt="Kerberostable users" >
 </p>
 
 ## Features
