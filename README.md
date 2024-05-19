@@ -7,11 +7,11 @@
 
 <H2>Password Policy Demo</H2>
 <p align="center"> 
-  <img src="https://github.com/Edd13Mora/NetWrapper/blob/main/1.png" alt="Password Policy" >
+  <img src="https://github.com/Edd13Mora/NetWrapper/blob/main/Demo1.png" alt="Password Policy" >
 </p>
 <H2>Kerberoasting Demo</H2>
 <p align="center"> 
-  <img src="https://github.com/Edd13Mora/NetWrapper/blob/main/2.png" alt="Kerberostable users" >
+  <img src="https://github.com/Edd13Mora/NetWrapper/blob/main/Demo2.png" alt="Kerberostable users" >
 </p>
 
 ## Features
