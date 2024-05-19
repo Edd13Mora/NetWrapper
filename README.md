@@ -1,4 +1,10 @@
 # NetWrapper 
 <p align="center"> 
-  <img src="https://raw.githubusercontent.com/Edd13Mora/NetWrapper/main/logo.png" alt="Pacman Logo" >
+  <img src="" alt="Pacman Logo" >
+</p>
+<p align="center"> 
+  <img src="https://github.com/Edd13Mora/NetWrapper/blob/main/1.png" alt="Password Policy" >
+</p>
+<p align="center"> 
+  <img src="https://github.com/Edd13Mora/NetWrapper/blob/main/2.png" alt="Kerberostable users" >
 </p>
